@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://tastytatersbackend.nyabwansufred.repl.co/) her
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/WilfredNyangweso/Tasty-Taters.git
 ```
 
 2. Backend setting
